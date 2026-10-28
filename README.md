@@ -25,6 +25,13 @@ This project explores the complete workflow—from preparing data and training a
 
 ---
 
+Heart-Disease-Risk-Prediction-System/
+├── app.py
+├── heart.csv
+├── requirements.txt
+└── README.md
+
+
 ## Tech Stack
 
 - Python
